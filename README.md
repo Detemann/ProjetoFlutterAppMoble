@@ -1,7 +1,7 @@
 # Contador de pessoas - Controle de Acesso
 
 ## Descrição do Aplicativo
-Nome: People Counter
+Nome: Contador de pessoas 
 Objetivo: Aplicativo desenvolvido em Flutter para controle de acesso em ambientes fechados, permitindo:
 Contagem de pessoas entrando/saindo
 Limite máximo configurável de ocupação
@@ -14,8 +14,3 @@ Personalização da interface
 🚨 Alerta visual quando atinge 20 pessoas
 🎨 Mudança de cor de fundo aleatória
 👥 Contagem em tempo real
-
-## Tecnologias Utilizadas
-Flutter 3.x
-Dart 3.x
-Android Studio/VS Code
