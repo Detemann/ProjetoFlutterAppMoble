@@ -1,16 +1,21 @@
-# app1
+# Contador de pessoas - Controle de Acesso
 
-A new Flutter project.
+## Descrição do Aplicativo
+Nome: People Counter
+Objetivo: Aplicativo desenvolvido em Flutter para controle de acesso em ambientes fechados, permitindo:
+Contagem de pessoas entrando/saindo
+Limite máximo configurável de ocupação
+Alertas visuais quando a capacidade é atingida
+Personalização da interface
 
-## Getting Started
+## Funcionalidades Principais
+➕ Botão de incremento (entrada de pessoas)
+➖ Botão de decremento (saída de pessoas)
+🚨 Alerta visual quando atinge 20 pessoas
+🎨 Mudança de cor de fundo aleatória
+👥 Contagem em tempo real
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+Flutter 3.x
+Dart 3.x
+Android Studio/VS Code
